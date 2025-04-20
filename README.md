@@ -38,17 +38,17 @@ Welcome to **MyYouTube Clone** – a YouTube-inspired video streaming UI built w
 ## 🖼️ Screenshots
 
 ### 🔹 Light Home Page
-    ![Light_home](./assets/Light_home.png)
+    ![Light_home](./public/assets/Light_home.png)
 ### 🔹 Dark Home Page  
-     ![Home](./assets/Home.png)
+     ![Home](./public/assets/Home.png)
 ### 🔹 Watch Page
-![watch_page](./assets/watch_page.png)     
+![watch_page](./public/assets/watch_page.png)     
 
 ### 🔹Live Chat Page
-![Live_chat](./assets/Live_chat.png)
+![Live_chat](./public/assets/Live_chat.png)
 
 ### 🔹Comment Page
-![Commentt](./assets/Comment.png)
+![Commentt](./public/assets/Comment.png)
 
 ## 🧑‍💻 How to Run Locally
 
