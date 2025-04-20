@@ -1,3 +1,56 @@
+# 📺 MyYouTube Clone – React JS Video Streaming App
+
+Welcome to **MyYouTube Clone** – a YouTube-inspired video streaming UI built with **React**, **Redux**, **Tailwind CSS**, and powered by the **YouTube Data API**.
+
+🚀 Live Demo: [Click here to watch live](https://rayees-youtube.vercel.app/)
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ React JS
+- 🌬️ Tailwind CSS
+- 🗃️ Redux Toolkit
+- 🌐 YouTube Data API v3
+- 🔍 Google Suggest API
+- 🔁 React Router DOM
+- 💡 Custom Hooks
+
+---
+
+## 📷 Features
+
+- 🔎 **Live Search Suggestions** with Debouncing
+- 🎥 **YouTube Video Feed**
+- 📺 **Watch Page** with Description & Stats
+- 🧭 **Responsive Sidebar Navigation**
+- 🧠 **Redux-powered Caching for Search**
+- 💬 **Dynamic Comments & Suggestions UI**
+  ✅ Toggle Sidebar.
+  ✅ See live chats directly fetched from YouTube's API using API polling.
+  ✅ Created Random Generated Name and Messages for Live chat 
+  ✅ Nested Comments Section
+  ✅ Shimmer UI
+  ✅ React Slick Slider & React Toastify Library 
+  ✅ YouTube Watch page show using iframe with passed id.
+---
+
+## 🖼️ Screenshots
+
+_Add screenshots of your app UI here if you'd like._
+
+---
+
+## 🧑‍💻 How to Run Locally
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+npm install
+npm start
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
