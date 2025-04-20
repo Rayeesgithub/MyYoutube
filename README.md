@@ -37,9 +37,18 @@ Welcome to **MyYouTube Clone** – a YouTube-inspired video streaming UI built w
 
 ## 🖼️ Screenshots
 
-_Add screenshots of your app UI here if you'd like._
+### 🔹 Light Home Page
+    ![Home Page](./assets/Light_home)
+### 🔹 Light Home Page  
+     ![Home Page](./assets/Home)
+### 🔹 Watch Page
+![Watch Page](./assets/watch_page)     
 
----
+### 🔹Live Chat Page
+![LiveChat](./assets/Live_chat)
+
+### 🔹Comment Page
+![Comment](./assets/Comment)
 
 ## 🧑‍💻 How to Run Locally
 
